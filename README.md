@@ -9,7 +9,7 @@ In this project, let's build an **Even Odd App** by applying the concepts we hav
 <br/>
 
 ### Design Files
-
+checkout url::https://Randomevenoddr.ccbp.tech
 <details>
 <summary>Click to view</summary>
 
